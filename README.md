@@ -74,13 +74,14 @@ Sou desenvolvedor com grande interesse em IA e na construção de soluções que
 
 ---
 
-## 🐾 Projetos em Destaque
+## 👨‍💻 Projetos em Destaque
 
 | Projeto | Descrição | Tecnologias |
 |---------|-----------|-------------|
-| [**Sistema de Gestão SENAI**](https://github.com/Rnchx/gestao-senai-front) | Projeto de conclusão de curso do SENAI - Sistema de gestão completo | Front-end, React, Node.js |
-| [**Compactador Huffman**](https://github.com/Rnchx/huffman-compressor) | Compactador/descompactador de texto usando algoritmo de Huffman em C | C, Estruturas de Dados |
-| [**Pokédex JC**](https://github.com/Rnchx/pokedex-JC) | Aplicativo para gerenciar coleção de Pokémon com Firebase | Flutter, Dart, Firebase |
+| [**AppSafra (Supermercado)**](https://github.com/Rnchx/AppSafraFront) <br/> [🔗 Back-end](https://github.com/Rnchx/AppSafraBack) | Sistema completo de supermercado com foco em experiência do usuário, permitindo navegação de produtos, simulação de compras e integração com API própria. Projeto desenvolvido em equipe com arquitetura separada entre front-end e back-end. | React Native, Node.js, Express |
+| [**Sistema de Gestão SENAI (TCC)**](https://github.com/Rnchx/gestao-senai-front) <br/> [🔗 Back-end](https://github.com/Rnchx/gestao-senai-back) | Sistema completo para gestão de alunos, incluindo controle de pagamentos, autorizações de entrada/saída e autenticação administrativa. Projeto de conclusão de curso com foco em organização de dados e regras de negócio. | React, Node.js, Express, MongoDB |
+| [**Compactador Huffman**](https://github.com/Rnchx/huffman-compressor) | Implementação do algoritmo de compressão de dados de Huffman, permitindo compactação e descompactação de textos. Foco em estruturas de dados e lógica de baixo nível. | C, Estruturas de Dados |
+| [**Pokédex JC**](https://github.com/Rnchx/pokedex-JC) | Aplicativo mobile para gerenciamento de coleção de Pokémon, com armazenamento em nuvem e interface interativa. | Flutter, Dart, Firebase |
 
 ---
 
