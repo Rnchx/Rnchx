@@ -4,7 +4,7 @@
 
 ## 🚀 Sobre Mim
 
-Sou um desenvolvedor apaixonado por tecnologia e programação. Atualmente estou focado em desenvolvimento mobile com Flutter e também tenho experiência com desenvolvimento em C e Firebase.
+Sou desenvolvedor com grande interesse em IA e na construção de soluções que gerem impacto real. Busco constantemente evoluir minhas habilidades, com atenção à qualidade, usabilidade e organização das aplicações que desenvolvo. Tenho foco em desenvolvimento como DevOps, criando interfaces intuitivas e funcionais, sempre com uma abordagem voltada à experiência do usuário e à resolução eficiente de problemas.
 
 - 🎓 Estudante de Sistemas de Informação
 - 📱 Desenvolvedor Full-Stack
