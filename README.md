@@ -6,9 +6,9 @@
 
 Sou um desenvolvedor apaixonado por tecnologia e programação. Atualmente estou focado em desenvolvimento mobile com Flutter e também tenho experiência com desenvolvimento em C e Firebase.
 
-- 🎓 Estudante de Análise e Desenvolvimento de Sistemas
-- 📱 Desenvolvedor Flutter
-- 🔧 Entusiasta de C e Estruturas de Dados
+- 🎓 Estudante de Sistemas de Informação
+- 📱 Desenvolvedor Full-Stack
+- 🔧 Entusiasta em projetos Front-End
 - 🌱 Sempre aprendendo coisas novas
 
 ---
