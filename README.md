@@ -104,6 +104,5 @@ https://github-readme
 
 ---
 
-vercel.app/api
   <img src="https://readme-typing-svg.herokuapp.com/?color=00FF00&size=25&center=true&vCenter=true&width=600&lines=Obrigado+pela+visita!;Volte+sempre!+👋" />
 </div>
