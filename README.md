@@ -96,13 +96,16 @@ Sou desenvolvedor com grande interesse em IA e na construção de soluções que
 
 ---
 
+---
+
 ## 📈 Visitantes
 
-https://github-readme
-  <img src="https://komarev.com/ghpvc/?username=Rnchx&color=blue&style=flat-square&label=Visitantes" alt="Contador de visitantes" />
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rnchx&color=blueviolet&style=for-the-badge&label=VISITANTES" alt="Contador de visitantes" />
 </div>
 
 ---
 
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00FF00&size=25&center=true&vCenter=true&width=600&lines=Obrigado+pela+visita!;Volte+sempre!+👋" />
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=BD93F9&size=25&center=true&vCenter=true&width=700&lines=Obrigado+pela+visita!;Volte+sempre!+🚀;Rnchx+GitHub+Profile" />
 </div>
