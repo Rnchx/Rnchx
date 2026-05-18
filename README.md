@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou João Pedro (Rnchx)!
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=35&center=false&vCenter=true&width=1000&lines=Olá,+bem-vindo+ao+meu+perfil!;Seja+muito+bem-vindo(a)!+🌟)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=BD93F9&size=35&center=false&vCenter=true&width=1000&lines=Olá,+bem-vindo+ao+meu+perfil!;Seja+muito+bem-vindo(a)!+🌟)](https://git.io/typing-svg)
 
 ## 🚀 Sobre Mim
 
