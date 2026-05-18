@@ -65,12 +65,13 @@ Sou desenvolvedor com grande interesse em IA e na construção de soluções que
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rnchx&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rnchx&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Rnchx&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Rnchx&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rnchx&theme=dracula" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Rnchx&theme=dracula" alt="GitHub Streak" />
 </div>
 
 ---
@@ -97,12 +98,12 @@ Sou desenvolvedor com grande interesse em IA e na construção de soluções que
 
 ## 📈 Visitantes
 
-<div align="center">
+https://github-readme
   <img src="https://komarev.com/ghpvc/?username=Rnchx&color=blue&style=flat-square&label=Visitantes" alt="Contador de visitantes" />
 </div>
 
 ---
 
-<div align="center">
+vercel.app/api
   <img src="https://readme-typing-svg.herokuapp.com/?color=00FF00&size=25&center=true&vCenter=true&width=600&lines=Obrigado+pela+visita!;Volte+sempre!+👋" />
 </div>
